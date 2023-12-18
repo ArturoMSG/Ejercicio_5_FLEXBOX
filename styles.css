@@ -1,0 +1,62 @@
+*{
+
+}
+body {
+    width: 740px;
+    height: 540px;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+
+}
+.cinco{
+    background-color: red;
+    width: 740px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+}
+
+.tres{
+    background-color: green;
+    width: 740px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.uno{
+    background-color: blue;
+    width: 740px;
+    height: 60px;
+}
+
+.rojo_izq{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.blanco{
+    width: 40px;
+    height: 200px;
+    background-color: white;
+}
+.azul{
+    width: 60px;
+    height: 200px;
+    background-color: blue;
+}
+.blanco_1{
+    width: 240px;
+    height: 40px;
+    background-color: white;
+}
+.blanco_2 {
+        width: 440px;
+        height: 40px;
+        background-color: white;
+}
+.azul_1{
+    width: 60px;
+    height: 200px;
+    background-color: blue;
